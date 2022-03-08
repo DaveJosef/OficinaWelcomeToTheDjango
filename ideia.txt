@@ -1,0 +1,5 @@
+Poll Application
+
+Models = Question | Choice
+Views = details() | results() | vote()
+Templates = index.html | detail.html | results.html
